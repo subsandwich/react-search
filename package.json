@@ -1,0 +1,19 @@
+{
+  "name": "react-page-search-bar",
+  "version": "0.1.0",
+  "description": "A simple search bar for React projects",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "index": "node tasks/index-site.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subsandwich/react-search.git"
+  },
+  "author": "Jacob Ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subsandwich/react-search/issues"
+  },
+  "homepage": "https://github.com/subsandwich/react-search#readme"
+}
