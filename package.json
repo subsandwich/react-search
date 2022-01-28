@@ -1,6 +1,6 @@
 {
   "name": "react-page-search-bar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple search bar for React projects",
   "main": "index.js",
   "bin": "index.js",
