@@ -12,7 +12,7 @@
     "url": "git+https://github.com/subsandwich/react-search.git"
   },
   "author": "Jacob Ryan",
-  "license": "ISC",
+  "license": MIT",
   "bugs": {
     "url": "https://github.com/subsandwich/react-search/issues"
   },
